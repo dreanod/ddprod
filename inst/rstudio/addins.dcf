@@ -1,0 +1,5 @@
+Name: Deploy App
+Description: Deploy App to Rstudio Connect
+Binding: deploy_app
+Interactive: false
+
