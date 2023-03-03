@@ -1,5 +1,20 @@
 Name: Deploy App
-Description: Deploy App to Rstudio Connect
+Description: Deploy app to Rstudio Connect
 Binding: deploy_app
+Interactive: false
+
+Name: Run App
+Description: Run the main Shiny application
+Binding: run_app
+Interactive: false
+
+Name: Run Shiny Module
+Description: Run the Shiny module application
+Binding: run_shiny_mod
+Interactive: false
+
+Name: Use Shiny Module
+Description: Create a new Shiny module
+Binding: use_shiny_mod
 Interactive: false
 
